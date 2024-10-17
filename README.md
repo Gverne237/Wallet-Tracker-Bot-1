@@ -69,6 +69,10 @@ node wallettrack.js
 - `/add <wallet_address> <nametag>`: Start tracking the given wallet address.
 - `/delete <wallet_address>`: Stop tracking the given wallet.
 - `/list`: List all wallet addresses currently being tracked
+- `/gasprice`: Gives the current gas price of current network
+- `/bnbprice`: Gives the price of native token of current network (Live implementation tracks BNB price, you can change the address of the native token)
+
+
 
 ## Technologies Used
 
