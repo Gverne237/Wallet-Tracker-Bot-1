@@ -1,3 +1,7 @@
+### Try the Bot
+
+You can try the live version of the Wallet Tracker Bot here deployed by me: [Track Your BSC Wallet Bot](https://t.me/track_your_bsc_wallet_bot).
+
 # Wallet Tracker Telegram Bot
 
 A powerful Telegram bot that tracks blockchain wallet activities in real time, including swaps, transfers, and NFT transactions. Stay updated on your wallet's movements directly through Telegram notifications.
@@ -13,7 +17,7 @@ A powerful Telegram bot that tracks blockchain wallet activities in real time, i
 
 Before you can run the bot, you'll need:
 
-- **Node.js** (for JavaScript bots)
+- **Node.js**
 - **Telegram Bot Token**: Create a bot via [BotFather](https://core.telegram.org/bots#botfather) on Telegram.
 - **Blockchain Rpc Url**
 
